@@ -1,0 +1,10 @@
+{
+    "name": "Check License Compliance",
+    "description": "Checks REUSE 3.0 Specification compliance, which asserts that every file has a valid license attached to it.",
+    "iconName": "octicon law",
+    "categories": [
+	    "Automation",
+	    "code-quality"
+    ],
+    "filePatterns": []
+}

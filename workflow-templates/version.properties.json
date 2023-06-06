@@ -1,0 +1,9 @@
+{
+    "name": "Bump Version",
+    "description": "Increments Semver version based on commit tags, e.g. #none, #patch, #minor, #major",
+    "iconName": "octicon versions",
+    "categories": [
+	    "Automation"
+    ],
+    "filePatterns": []
+}

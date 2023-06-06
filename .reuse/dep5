@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: .github
+Upstream-Contact: KOINSLOT, Inc. <contact@kywy.io>
+Source: https://github.com/KOINSLOT-Inc/.github
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
