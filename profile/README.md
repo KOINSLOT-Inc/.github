@@ -5,11 +5,11 @@ SPDX-License-Identifier: GPL-3.0-or-later
 -->
 
 <h1 align="left">Welcome to Kywy by KOINSLOT, Inc. 🎮
-  <img src="../assets/coming-soon-on-kickstarter.png" alt="Coming Soon on Kickstarter" align="right" height="40"/>
+  <img src="https://github.com/KOINSLOT-Inc/.github/blob/main/assets/coming-soon-on-kickstarter.png?raw=true" alt="Coming Soon on Kickstarter" align="right" height="40"/>
 </h1>
 
 <p align="left">
-  <img src="../assets/koinslot-logo-dark-on-light.png" alt="KOINSLOT Logo" align="left" height="100" style="vertical-align: middle;"/>
+  <img src="https://github.com/KOINSLOT-Inc/.github/blob/main/assets/koinslot-logo-dark-on-light.png?raw=true" alt="KOINSLOT Logo" align="left" height="100" style="vertical-align: middle;"/>
   Kywy is not just another game engine; it's a learning tool designed to empower beginners to create, share, and explore
   the world of game development. Brought to you by KOINSLOT, Inc., Kywy is all about creativity, collaboration, and
   personal growth.
@@ -19,7 +19,7 @@ SPDX-License-Identifier: GPL-3.0-or-later
 ## Explore Kywy: Your Personal Game Development Studio
 
 <p align="center">
-  <img src="../assets/kywy-render-front.png" alt="Kywy Render Front"/>
+  <img src="https://github.com/KOINSLOT-Inc/.github/blob/main/assets/kywy-render-front.png?raw=true" alt="Kywy Render Front"/>
 </p>
 
 Kywy is crafted to provide an easy and engaging entry into game development. Whether you're a complete beginner or
@@ -38,7 +38,7 @@ more details.
 
 ## About KOINSLOT, Inc.
 
-![KOINSLOT Name](../assets/koinslot-name-bold-font-all-caps.png)
+![KOINSLOT Name](https://github.com/KOINSLOT-Inc/.github/blob/main/assets/koinslot-name-bold-font-all-caps.png?raw=true)
 
 KOINSLOT, Inc. is the proud creator of Kywy, a unique learning tool that brings game development to your fingertips.
 We believe in making creativity accessible, personal, and limitless.
